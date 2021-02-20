@@ -1,0 +1,6 @@
+h1 { color: red; }
+/*{border: solid;}*/
+.header{background-color: green; display: flex; justify-content: space-between;}
+p,h2{text-align: center;}
+.footer{display:flex; justify-content:flex-end}
+.grid{display:flex; flex-wrap: wrap; justify-content: space-evenly}
